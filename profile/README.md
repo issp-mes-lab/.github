@@ -53,22 +53,24 @@
 ## 技術平台與工具
 
 ### 程式開發環境
-![MATLAB](https://img.shields.io/badge/matlab-R2023b%2B-orange)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-C--Sharp-brightgreen?style=flat&logo=csharp)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![LabVIEW](https://img.shields.io/badge/-LabVIEW-FFDB00?style=flat-square&logo=labview&logoColor=black)
+![MATLAB](https://img.shields.io/badge/matlab-R2023b%2B-orange?style=flat&logo=matlab&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/-LabVIEW-FFDB00?style=flat&logo=labview&logoColor=black)
 
 ### 人工智慧框架
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-### 硬體整合平台
-![NVIDIA Jetson](https://img.shields.io/badge/-NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### 硬體整合平台 & 作業系統
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/-NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -153,7 +155,7 @@
 
 ### 🎓 研究合作機會
 
-本實驗室歡迎具備以下專業背景之人才加入：
+本實驗室歡迎具備以下專業背景或有興趣之人才加入：
 - **影像處理與電腦視覺技術**
 - **訊號處理與模式識別演算法**
 - **機器學習與人工智慧應用**
@@ -167,10 +169,9 @@
 
 | 資源類型 | 連結位置 | 功能說明 |
 |---------|---------|----------|
-| 🏠 組織首頁 | [issp-mes-lab](https://github.com/issp-mes-lab) | 實驗室組織主頁與專案總覽 |
+| 🏠 組織首頁 | [ISSP & MES Lab](https://github.com/issp-mes-lab) | 實驗室組織主頁與專案總覽 |
 | 💬 學術討論 | [Discussions](https://github.com/orgs/issp-mes-lab/discussions) | 技術討論與學術知識分享平台 |
 | 📋 專案管理 | [Projects](https://github.com/orgs/issp-mes-lab/projects) | 研究專案進度追蹤與管理 |
-| 👥 成員資訊 | [Members](./MEMBERS.md) | 實驗室成員聯絡資訊與專長 |
 | 📚 技術文件 | [Wiki](https://github.com/issp-mes-lab/.github/wiki) | 研發文件與技術規範手冊 |
 
 ---
