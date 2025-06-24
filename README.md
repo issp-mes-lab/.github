@@ -11,6 +11,6 @@
 ![Profile Views](https://api.visitorbadge.io/api/visitors?path=issp-mes-lab&label=Profile%20Views&countColor=%2337d67a&style=flat)
 [![GitHub Organization](https://img.shields.io/github/followers/issp-mes-lab?style=flat&label=Followers&color=blue)](https://github.com/issp-mes-lab)
 ![Last Commit](https://img.shields.io/github/last-commit/issp-mes-lab/.github?label=Last%20Update&style=flat&color=green)
-![授權條款](https://img.shields.io/github/license/issp-mes-lab/.github?label=授權條款&style=flat&color=blue)
+![授權條款](https://img.shields.io/github/license/issp-mes-lab/.github?label=授權條款&style=flat&color=#57B0FF)
 
 </div>
