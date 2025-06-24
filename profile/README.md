@@ -175,7 +175,6 @@
 
 <div align="center">
 
-### 🌟 致力於智慧技術創新，共創美好未來
 
 ![Profile Views](https://api.visitorbadge.io/api/visitors?path=issp-mes-lab&label=Profile%20Views&countColor=%2337d67a)
 [![GitHub Organization](https://img.shields.io/github/followers/issp-mes-lab?style=social&label=Follow)](https://github.com/issp-mes-lab)
