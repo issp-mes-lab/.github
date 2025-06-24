@@ -179,7 +179,6 @@
 ![Profile Views](https://api.visitorbadge.io/api/visitors?path=issp-mes-lab&label=Profile%20Views&countColor=%2337d67a)
 [![GitHub Organization](https://img.shields.io/github/followers/issp-mes-lab?style=social&label=Follow)](https://github.com/issp-mes-lab)
 
----
 
 **版權所有 © 2025 智慧系統與訊號處理暨多模態機電系統實驗室**  
 
