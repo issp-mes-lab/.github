@@ -2,7 +2,9 @@
 
 ## 實驗室簡介
 
-**智慧系統與訊號處理暨多模態機電系統實驗室** (Intelligent Systems and Signal Processing & Multimodal and Electro-Mechanical System Laboratory)
+**智慧系統與訊號處理暨多模態機電系統實驗室**
+> Intelligent Systems and Signal Processing & Multimodal and Electro-Mechanical System Laboratory
+
 
 本實驗室致力於智慧系統、影像處理、訊號處理與多模態機電系統之前瞻研究與技術開發。透過跨領域整合與產學合作，專注於理論創新與實務應用並重的研究方針，培育高階技術人才，推動相關領域之學術發展與技術進步。
 
