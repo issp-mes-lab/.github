@@ -6,7 +6,7 @@
 **Intelligent Systems and Signal Processing & Multimodal and Electro-Mechanical System Laboratory**
 
 [![Language](https://img.shields.io/badge/Language-English-blue?style=flat&logo=googletranslate&logoColor=white)](README.md)
-[![語言](https://img.shields.io/badge/語言-繁體中文-red?style=flat&logo=googletranslate&logoColor=white)](README_zh.md)
+[![語言](https://img.shields.io/badge/語言-繁體中文-red?style=flat&logo=googletranslate&logoColor=white)](README-zh.md)
 
 ![Profile Views](https://api.visitorbadge.io/api/visitors?path=issp-mes-lab&label=訪客數量&countColor=%2337d67a&style=flat)
 [![GitHub Organization](https://img.shields.io/github/followers/issp-mes-lab?style=flat&label=追蹤數&color=blue)](https://github.com/issp-mes-lab)
