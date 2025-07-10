@@ -1,7 +1,10 @@
+  
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=ISSP-MES%20LAB&section=header&desc=NCHU%20|%20NCUT&descAlignY=55&fontAlignY=30&fontColor=ffffff&fontSize=55&descAlign=64&descSize=20" />
+</div>
 
-# ISSP & MES Lab
-
+<div align="center">
+  
 ## Intelligent Systems and Signal Processing & Multimodal and Electro-Mechanical System Laboratory
 **智慧系統與訊號處理暨多模態機電系統實驗室**
 
