@@ -281,7 +281,7 @@ Transportation: Near Taichung and Wuquan Train Stations
 
 **Institution Address 2**: Department of Electrical Engineering, National Chin-Yi University of Technology  
 Laboratory Location: 3F E303 Research Room, Engineering Building  
-Transportation: Near Taiping Train Station
+Transportation: Near Jingwu Train Station
 
 </td>
 <td width="50%" valign="top">
